@@ -1,0 +1,13 @@
+.alert{
+    width: 500px;
+    margin: 5px auto;
+}
+.form-check-input{
+    position: relative;
+    float: left;
+    text-align: center;
+}
+.jumbotron{
+    text-align: center;
+    margin: auto;
+}
